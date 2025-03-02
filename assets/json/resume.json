@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Garvita Tiwari",
-        "label": "Research Scientist",
+        "label": "Ph.D Student",
         "image": "",
         "email": "",
         "phone": "",
         "url": "https://garvita-tiwari.github.io/",
-        "summary": "Ph.D. in Computer Vision and Machine Learning with expertise in 3D generative modeling, human pose estimation, and clothing simulation.",
+        "summary": "Ph.D. in Computer Vision and Machine Learning",
         "location": {
             "address": "",
             "postalCode": "",
@@ -34,10 +34,7 @@
             "url": "",
             "startDate": "2022-07-01",
             "endDate": "2022-11-01",
-            "summary": "Worked on template-free NeRFs for human modeling.",
-            "highlights": [
-                "Developed NeRF-based methods for human representation."
-            ]
+            "summary": "Worked on template-free NeRFs for human modeling."
         },
         {
             "name": "Max Planck Institute for Informatics",
@@ -92,7 +89,6 @@
             "studyType": "M.Sc.",
             "startDate": "2017-10-01",
             "endDate": "2019-11-01",
-            "gpa": "1.5/1.0",
             "thesis": "Learning Size Sensitive Cloth Model"
         },
         {
@@ -133,68 +129,37 @@
     "publications": [
         {
             "name": "CloSe: A 3D Clothing Segmentation Dataset and Model",
-            "publisher": "3DV",
+            "publisher": "3DV 2024",
             "releaseDate": "2024-03-01",
-            "url": "",
-            "summary": "Introduces a dataset and model for clothing segmentation."
+            "url": "https://virtualhumans.mpi-inf.mpg.de/close3dv24/"
         },
         {
             "name": "NRDF: Neural Riemannian Distance Fields for Learning Articulated Pose Priors",
-            "publisher": "CVPR",
+            "publisher": "CVPR 2024",
             "releaseDate": "2024-06-01",
-            "url": "",
-            "summary": "Proposes a method for learning articulated pose priors."
-        }
-    ],
-    "skills": [
-        {
-            "name": "Computer Vision",
-            "level": "Expert",
-            "keywords": [
-                "3D Human Modeling",
-                "Neural Implicit Representations",
-                "Clothing Simulation"
-            ]
+            "url": "https://virtualhumans.mpi-inf.mpg.de/nrdf/"
         },
         {
-            "name": "Machine Learning",
-            "level": "Expert",
-            "keywords": [
-                "Generative Models",
-                "Deep Learning",
-                "Pose Estimation"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Fluent"
+            "name": "Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields",
+            "publisher": "ECCV 2022",
+            "releaseDate": "2022-10-01",
+            "url": "https://virtualhumans.mpi-inf.mpg.de/posendf/"
         },
         {
-            "language": "Hindi",
-            "fluency": "Native speaker"
-        }
-    ],
-    "projects": [
-        {
-            "name": "A unified model for 'Human in Clothing'",
-            "summary": "Developing a large-scale 3D generative model for multi-layer clothing.",
-            "highlights": [
-                "Uses diffusion models for clothing generation"
-            ],
-            "startDate": "2024-01-01",
-            "expected_finish": "2025-03-01"
+            "name": "Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing",
+            "publisher": "ICCV 2021",
+            "url": "https://virtualhumans.mpi-inf.mpg.de/neuralgif/"
         },
         {
-            "name": "Appearance Prior for Clothing",
-            "summary": "Investigating fine-tuned ControlNet for clothing models.",
-            "highlights": [
-                "ControlNet, Fine-tuning"
-            ],
-            "expected_finish": "2025-04-01"
+            "name": "SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing",
+            "publisher": "ECCV 2020",
+            "url": "https://virtualhumans.mpi-inf.mpg.de/sizer/"
         }
+        
+
+
     ],
+
     "talks": [
         {
             "title": "Neural Distance Fields for Human-Clothing Models and Pose Manifolds",
