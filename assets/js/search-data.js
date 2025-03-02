@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-travel",
+          title: "Travel",
+          description: "You live everyday.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/travel/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
