@@ -615,6 +615,17 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
+# -----------------------------------------------------------------------------
+# Navigation Bar Links
+# -----------------------------------------------------------------------------
+navbar_links:
+  about: /about/
+  blog: /blog/
+  publications: /publications/
+  repositories: /repositories/
+  cv: /cv/
+  teaching: /teaching/
+
 
 # -----------------------------------------------------------------------------
 # Get external JSON data
