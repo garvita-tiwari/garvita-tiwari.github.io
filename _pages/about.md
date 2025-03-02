@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'> </a> 
+subtitle: <a href='#'> Under Construction </a> 
 
 profile:
   align: right
