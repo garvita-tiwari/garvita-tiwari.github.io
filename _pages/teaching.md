@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching and Theses
 description: Teaching and Master's/Bachelor's Theses Supervised.
 nav: true
-nav_order: 6
+nav_order: 5
 
 ---
 ## Supervised Master's/Bachelor's Theses
