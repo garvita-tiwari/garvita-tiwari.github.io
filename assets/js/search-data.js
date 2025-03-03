@@ -30,14 +30,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-academic-services",
-          title: "Academic Services",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/dropdown/";
-          },
-        },{id: "nav-travel",
+        },{id: "dropdown-teaching",
+              title: "Teaching",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching/";
+              },
+            },{id: "dropdown-supervised-master-39-s-bachelor-39-s-theses",
+              title: "Supervised Master&#39;s/Bachelor&#39;s Theses",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/students/";
+              },
+            },{id: "dropdown-reviewing",
+              title: "Reviewing",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/reviewing/";
+              },
+            },{id: "nav-travel",
           title: "Travel",
           description: "You live everyday.",
           section: "Navigation",
