@@ -6,9 +6,32 @@ description: Reviewing.
 nav: false
 
 ---
-## Supervised Master's/Bachelor's Theses
+🏛 Conferences
 
-- **Batuhan Ozcomlecki** – *Generative Modeling of 3D Human Avatars*, Master's thesis, Ongoing
-- **Samuel Zink** – *Open Vocabulary 3D Clothing Segmentation*, Bachelor's thesis, August 2024 - December 2024
-- **Margaret Kostyrko** – *Generating Textured 3D Humans with Coherent Mesh Topology*, Bachelor's thesis, May 2024 - November 2024 [Jointly supervised with Yuxuan Xue]
-- **Dimitrije Antic** – *3D Clothing Segmentation*, Master's Thesis, January 2023 [Now PhD student at University of Amsterdam]
+- CVPR (2022 – Outstanding Reviewer, 2023, 2024)
+
+- ICCV (2021, 2023)
+
+- ECCV (2022)
+
+- 3DV (2020, 2021, 2022, 2024)
+
+- Eurographics (2021)
+
+- SIGGRAPH (2021)
+
+- UIST (2020)
+
+- MVA (2021)
+
+📄 Journals
+
+- IEEE Transactions on Visualization and Computer Graphics (2021, 2022)
+
+- Computers & Graphics (2020, 2022)
+
+- Journal of Systems & Applications in Computer Graphics (2021)
+
+- PeerJ Computer Science (2021)
+
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (2023, 2024)

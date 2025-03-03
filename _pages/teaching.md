@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching and Theses
-description: Teaching and Master's/Bachelor's Theses Supervised.
+title: Teaching 
+description: Teaching
 nav: false
 
 ---
-
-## Teaching
 
 - **[Virtual Humans](https://virtualhumans.mpi-inf.mpg.de/VH22/)**, University of Tuebingen, WS 2022-23
 - **[Software Engineering Team Project](https://se.informatik.uni-tuebingen.de/teaching/teamproject/)**, University of Tuebingen, WS 2022-23

@@ -6,7 +6,6 @@ description: Master's/Bachelor's Theses Supervised.
 nav: false
 
 ---
-## Supervised Master's/Bachelor's Theses
 
 - **Batuhan Ozcomlecki** – *Generative Modeling of 3D Human Avatars*, Master's thesis, Ongoing
 - **Samuel Zink** – *Open Vocabulary 3D Clothing Segmentation*, Bachelor's thesis, August 2024 - December 2024
