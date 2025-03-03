@@ -1,13 +1,16 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 8
+title: Academic Services
+nav: true
+nav_order: 4
 dropdown: false
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Teaching
+    permalink: /teaching/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Supervised Master's/Bachelor's Theses
+    permalink: /students/
+  - title: divider
+  - title: Reviewing
+    permalink: /reviewing/
 ---
