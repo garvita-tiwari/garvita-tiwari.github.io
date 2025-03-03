@@ -3,7 +3,7 @@ layout: page
 title: Academic Services
 nav: true
 nav_order: 4
-dropdown: false
+dropdown: true
 children:
   - title: Teaching
     permalink: /teaching/
