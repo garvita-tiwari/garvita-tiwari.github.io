@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /studens/
+permalink: /students/
 title: Master's/Bachelor's Theses Supervised
-description: Master's/Bachelor's Theses Supervised.
+description: 
 nav: false
 
 ---
