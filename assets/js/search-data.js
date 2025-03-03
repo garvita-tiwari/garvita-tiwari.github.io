@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching-and-theses",
-          title: "Teaching and Theses",
-          description: "Teaching and Master&#39;s/Bachelor&#39;s Theses Supervised.",
+        },{id: "nav-academic-services",
+          title: "Academic Services",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/_pages/dropdown/";
           },
         },{id: "nav-travel",
           title: "Travel",
