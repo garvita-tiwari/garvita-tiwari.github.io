@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Pacific nort
+permalink: /pnw/
+title: Pacific North West
 description: with background image
 img: assets/img/pnw_2.jpg
-importance: 1
-category: work
-related_publications: true
+nav: false
+
 ---
 
 Every project has a beautiful feature showcase page.
