@@ -51,19 +51,19 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/reviewing/";
               },
-            },{id: "dropdown-travel",
-              title: "Travel",
+            },{id: "dropdown-pacific-north-west",
+              title: "Pacific North West",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/travel/";
+                window.location.href = "/pnw/";
               },
-            },{id: "dropdown-more",
-              title: "More",
+            },{id: "dropdown-the-arctic",
+              title: "The Arctic",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/more/";
+                window.location.href = "/arctic/";
               },
             },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
