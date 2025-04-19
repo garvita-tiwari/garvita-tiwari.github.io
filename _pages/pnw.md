@@ -15,7 +15,7 @@ Make your photos 1/3, 2/3, or full width.
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
-    *"Into the forest I go, to lose my mind and find my soul"* — John Muir
+    "Into the forest I go, to lose my mind and find my soul" — John Muir
     ---
 
 <div class="row">
