@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Personal
+title: Travel
 nav: true
 nav_order: 5
 dropdown: true
 children:
-  - title: Travel
-    permalink: /travel/
+  - title: Pacific North West
+    permalink: /pnw/
   - title: divider
-  - title: More
-    permalink: /more/
+  - title: The Arctic
+    permalink: /arctic/
 
 ---
 
