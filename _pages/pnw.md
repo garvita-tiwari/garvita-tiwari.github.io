@@ -7,16 +7,24 @@ nav: false
 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     "Into the forest I go, to lose my mind and find my soul" — John Muir
     ---
 
+My love affair with the Pacific Northwest began in the pages of Wild: From Lost to Found on the Pacific Crest Trail. It was around 2014/15 when I first read this incredible story, and with each page, a quiet longing began to take shape—an ache for wild places, for solitude, for the vast and untamed embrace of nature. As Cheryl’s journey ended at the Bridge of the Gods, my fantasy began to take even deeper root. It ignited countless hours of obsession, scrolling along the PCT on Google Earth. I slowly started hiking in the lower Himalayas, the Western Ghats of India, the Alps, the Black Forest, and many more wonders of nature, trying to chase the same sense of wonder that first stirred in me through the pages of that book.
+
+It wasn’t until June of 2022 that I finally stood there myself, with deep humility in my heart.
+
+It felt like a whisper from the universe—
+A reminder of how beautiful our home truly is.
+
+In the two years since, I’ve returned to this corner of the world time and time again.
+
+Each visit feels like a love letter to nature.
+
+And here, I share some of the most breathtaking places I’ve been—
+places that don’t just look beautiful, but feel beautiful.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/pnw_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
