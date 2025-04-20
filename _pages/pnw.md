@@ -2,7 +2,7 @@
 layout: page
 permalink: /pnw/
 title: Pacific North West
-description: A reminder how beautiful our home is!!
+description: A reminder of how beautiful our home truly is.
 nav: false
 
 ---
@@ -18,14 +18,10 @@ to losing myself on the mossy trails of the Western Ghats,
 
 from standing atop misty peaks in the Tyrolean and Bavarian Alps,
 
-to hiking under a sky that never brightened during the polar night in the Arctic—
+to hiking under a sky that never brightened during the polar night in the Arctic,
 
 
-trying to chase the same sense of wonder that first stirred in me through the pages of that book.
-
-It wasn’t until June of 2022 that I finally stood there myself, with deep humility in my heart. It felt like a whisper from the universe—
-
-    A reminder of how beautiful our home truly is.
+ —trying to chase the same sense of wonder that first stirred in me through the pages of that book. It wasn’t until June of 2022 that I finally stood there myself, with deep humility in my heart. It felt like a whisper from the universe— *A reminder of how beautiful our home truly is*.
 
 In the two years since, I’ve returned to this corner of the world time and time again. Each visit feels like a love letter to nature. And here, I share some of the most breathtaking places I’ve been— places that don’t just *look* beautiful, but *feel* beautiful.
 
