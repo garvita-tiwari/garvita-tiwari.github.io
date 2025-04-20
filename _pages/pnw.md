@@ -7,33 +7,15 @@ nav: false
 
 ---
 
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     "Into the forest I go, to lose my mind and find my soul" — John Muir
     ---
-
-My love affair with the Pacific Northwest began in the pages of *Wild: From Lost to Found on the Pacific Crest Trail*. It was around 2014/15 when I first read this incredible story, and with each page, a quiet longing began to take shape—an ache for wild places, for solitude in the vastness and wildness of nature. As Cheryl’s journey ended at the Bridge of the Gods, my fantasy began to take even deeper root. It ignited countless hours of obsession, scrolling along the PCT on Google Earth. With that longing came a thousand small beginnings—
-
-from sleeping in the lap of the Himalayas,
-to losing myself on the mossy trails of the Western Ghats,
-from standing atop misty peaks in the Tyrolean and Bavarian Alps,
-to hiking under a sky that never brightened during the polar night in the Arctic—
-
-trying to chase the same sense of wonder that first stirred in me through the pages of that book.
-
-It wasn’t until June of 2022 that I finally stood there myself, with deep humility in my heart. 
-
-It felt like a whisper from the universe—
-
-*A reminder of how beautiful our home truly is.*
-
-In the two years since, I’ve returned to this corner of the earth time and time again.
-
-Each visit feels like a love letter to nature.
-
-And here, I share some of the most breathtaking places I’ve been—
-
-places that don’t just *look* beautiful, but *feel* beautiful.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
