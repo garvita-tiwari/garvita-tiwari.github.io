@@ -27,7 +27,7 @@ It felt like a whisper from the universe—
 
 *A reminder of how beautiful our home truly is.*
 
-In the two years since, I’ve returned to this corner of the world time and time again.
+In the two years since, I’ve returned to this corner of the earth time and time again.
 
 Each visit feels like a love letter to nature.
 
