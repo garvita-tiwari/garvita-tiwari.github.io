@@ -24,7 +24,11 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at the Real Virtual Humans group, Max Planck Institute for Informatics (MPI-INF), Saarbrücken and University of Tuebingen, under the supervision of Prof. Dr. Gerard Pons-Moll.
+I have a Ph.D. from the Max Planck Institute for Informatics (MPI-INF) and the University of Tuebingen, where I worked with the Real Virtual Humans group under the supervision of Prof. Dr. Gerard Pons-Moll. While my doctoral journey was deeply rooted in 3D human modeling and clothing dynamics, I am now looking into exciting new problems!
+
+Currently, I am exploring the fascinating space of world models—thinking about how we can build intelligent, generative systems that truly understand and simulate the physics, geometry, and dynamics of real environments.
+
+Beyond work, I am passionate about exploring the real world just as much as the virtual one. You can often find me traveling and enjoying the outdoors, learning about history, and exploring the cozy corners of the city I live in.
 
 ## Education  
 - **Ph.D**: Max Planck Institute for Informatics and University of Tuebingen, December 2019 - October 2025  
@@ -37,6 +41,7 @@ I am a Ph.D. student at the Real Virtual Humans group, Max Planck Institute for 
 - **Computer Vision Software Engineer**, Infurnia Technologies, Bengaluru, India, July 2016 - May 2017  
 
 ## Research Interests  
+- World models  
 - Computer vision for graphics  
 - Geometric deep learning  
 - 3D Human modelling  
