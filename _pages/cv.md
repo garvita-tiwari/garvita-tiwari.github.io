@@ -2,10 +2,11 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 3
 cv_pdf: Garvita_Tiwari_resume.pdf # you can also use external links here
 description: 
+published: false
 toc:
   sidebar: left
 ---
