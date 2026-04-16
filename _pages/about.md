@@ -27,11 +27,12 @@ social: true # includes social icons at the bottom of the page
 I am a Ph.D. student at the Real Virtual Humans group, Max Planck Institute for Informatics (MPI-INF), Saarbrücken and University of Tuebingen, under the supervision of Prof. Dr. Gerard Pons-Moll.
 
 ## Education  
-- **Ph.D**: Max Planck Institute for Informatics and University of Tuebingen, December 2019 - Present  
+- **Ph.D**: Max Planck Institute for Informatics and University of Tuebingen, December 2019 - October 2025  
 - **M.Sc.** in Visual Computing, Saarland University, Saarbrücken, Germany, October 2017 - November 2019  
 - **B.Tech** in Electronics and Communication Engineering, IIIT-Allahabad, India, July 2012 - May 2016  
 
 ## Work  
+- **Member of Technical Staff (Research Scientist)**, SpaitialAI, Jan 2026 - present  
 - **Research Scientist Intern**, FAIR, Meta, London, July 2022 - November 2022  
 - **Computer Vision Software Engineer**, Infurnia Technologies, Bengaluru, India, July 2016 - May 2017  
 
