@@ -8,11 +8,11 @@ nav: false
 ---
 🏛 Conferences
 
-- CVPR (2022 – Outstanding Reviewer, 2023, 2024)
+- CVPR (2022 – Outstanding Reviewer, 2023, 2024, 2026)
 
-- ICCV (2021, 2023, 2025)
+- ICCV (2021, 2023, 2025 – Outstanding Reviewer)
 
-- ECCV (2022, 2024)
+- ECCV (2022, 2024, 2026)
 
 - 3DV (2020, 2021, 2022, 2024, 2025)
 
