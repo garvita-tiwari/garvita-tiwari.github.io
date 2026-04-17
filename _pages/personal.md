@@ -10,6 +10,9 @@ children:
   - title: divider
   - title: The Arctic
     permalink: /arctic/
+  - title: divider
+  - title: Mischief Managed
+    permalink: /mischief-managed/
 
 ---
 
