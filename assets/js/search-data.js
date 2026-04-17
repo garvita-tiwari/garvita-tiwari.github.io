@@ -58,6 +58,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/arctic/";
               },
+            },{id: "dropdown-mischief-managed",
+              title: "Mischief Managed",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/mischief-managed/";
+              },
             },{
         id: 'social-email',
         title: 'email',
