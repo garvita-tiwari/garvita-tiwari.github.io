@@ -39,7 +39,7 @@ history, and exploring the cozy corners of the city I live in.
 
 ## Work
 
-- **Member of Technical Staff (Research Scientist)**, SpaitialAI, Jan 2026 - present
+- **Member of Technical Staff (Research Scientist)**, SpatialAI, Jan 2026 - present
 - **Research Scientist Intern**, FAIR, Meta, London, July 2022 - November 2022
 - **Computer Vision Software Engineer**, Infurnia Technologies, Bengaluru, India, July 2016 - May 2017
 
