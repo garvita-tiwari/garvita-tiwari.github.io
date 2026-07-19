@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  
+subtitle:
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes the 5 most recent publications
 social: true # includes social icons at the bottom of the page
 
 # announcements:
@@ -28,22 +28,25 @@ I have a Ph.D. from the Max Planck Institute for Informatics (MPI-INF) and the U
 
 Currently, I am exploring the fascinating space of world models—thinking about how we can build intelligent, generative systems that truly understand the physics, geometry, and dynamics of real environments.
 
-Beyond work, I am passionate about exploring the real world just as much as the virtual one. You can often find me traveling and enjoying the outdoors, learning about 
+Beyond work, I am passionate about exploring the real world just as much as the virtual one. You can often find me traveling and enjoying the outdoors, learning about
 history, and exploring the cozy corners of the city I live in.
 
-## Education  
-- **Ph.D**: Max Planck Institute for Informatics and University of Tuebingen, December 2019 - October 2025  
-- **M.Sc.** in Visual Computing, Saarland University, Saarbrücken, Germany, October 2017 - November 2019  
-- **B.Tech** in Electronics and Communication Engineering, IIIT-Allahabad, India, July 2012 - May 2016  
+## Education
 
-## Work  
-- **Member of Technical Staff (Research Scientist)**, SpaitialAI, Jan 2026 - present  
-- **Research Scientist Intern**, FAIR, Meta, London, July 2022 - November 2022  
-- **Computer Vision Software Engineer**, Infurnia Technologies, Bengaluru, India, July 2016 - May 2017  
+- **Ph.D**: Max Planck Institute for Informatics and University of Tuebingen, December 2019 - October 2025
+- **M.Sc.** in Visual Computing, Saarland University, Saarbrücken, Germany, October 2017 - November 2019
+- **B.Tech** in Electronics and Communication Engineering, IIIT-Allahabad, India, July 2012 - May 2016
 
-## Research Interests  
-- World models  
-- Computer vision for graphics  
-- Geometric deep learning  
-- 3D Human modelling  
-- Clothing models and dynamics  
+## Work
+
+- **Member of Technical Staff (Research Scientist)**, SpaitialAI, Jan 2026 - present
+- **Research Scientist Intern**, FAIR, Meta, London, July 2022 - November 2022
+- **Computer Vision Software Engineer**, Infurnia Technologies, Bengaluru, India, July 2016 - May 2017
+
+## Research Interests
+
+- World models
+- Computer vision for graphics
+- Geometric deep learning
+- 3D Human modelling
+- Clothing models and dynamics
